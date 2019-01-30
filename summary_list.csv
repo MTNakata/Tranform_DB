@@ -1,0 +1,936 @@
+,実験分類,区分,名称,宿主（誘導体含む）,備考・ベクター（誘導体含む）
+0,認定宿主ベクター系,1B1,EK1,Escherichia coli K12,プラスミド（接合等により宿主以外の細菌に伝達されないもの）
+1,認定宿主ベクター系,1B1,EK1,Escherichia coli K12,バクテリオファージの核酸（接合等により宿主以外の細菌に伝達されないもの）
+2,認定宿主ベクター系,1B1,EK1,Escherichia coli B,プラスミド（接合等により宿主以外の細菌に伝達されないもの）
+3,認定宿主ベクター系,1B1,EK1,Escherichia coli B,バクテリオファージの核酸（接合等により宿主以外の細菌に伝達されないもの）
+4,認定宿主ベクター系,1B1,EK1,Escherichia coli C,プラスミド（接合等により宿主以外の細菌に伝達されないもの）
+5,認定宿主ベクター系,1B1,EK1,Escherichia coli C,バクテリオファージの核酸（接合等により宿主以外の細菌に伝達されないもの）
+6,認定宿主ベクター系,1B1,EK1,Escherichia coli W,プラスミド（接合等により宿主以外の細菌に伝達されないもの）
+7,認定宿主ベクター系,1B1,EK1,Escherichia coli W,バクテリオファージの核酸（接合等により宿主以外の細菌に伝達されないもの）
+8,認定宿主ベクター系,1B1,SC1,Saccharomyces cerevisiae,宿主のプラスミド
+9,認定宿主ベクター系,1B1,SC1,Saccharomyces cerevisiae,宿主のミニクロモソーム
+10,認定宿主ベクター系,1B1,SC1,Saccharomyces cerevisiaeと交雑可能な分類学上の種に属する酵母,宿主のプラスミド
+11,認定宿主ベクター系,1B1,SC1,Saccharomyces cerevisiaeと交雑可能な分類学上の種に属する酵母,宿主のミニクロモソーム
+12,認定宿主ベクター系,1B1,BS1,Bacillus subtilis Marburg168,宿主のプラスミド（接合による伝達性のないものに限る。）
+13,認定宿主ベクター系,1B1,BS1,Bacillus subtilis Marburg168,バクテリオファージの核酸
+14,認定宿主ベクター系,1B1,BS1,B.licheniformis（アミノ酸若しくは核酸塩基に対する複数の栄養要求性突然変異を有する株又は胞子を形成しない株）,宿主のプラスミド（接合による伝達性のないものに限る。）
+15,認定宿主ベクター系,1B1,BS1,B.licheniformis（アミノ酸若しくは核酸塩基に対する複数の栄養要求性突然変異を有する株又は胞子を形成しない株）,バクテリオファージの核酸
+16,認定宿主ベクター系,1B1,Thermus属細菌,Thermus thermophilus,宿主のプラスミド
+17,認定宿主ベクター系,1B1,Thermus属細菌,Thermus aquaticus,宿主のプラスミド
+18,認定宿主ベクター系,1B1,Thermus属細菌,Thermus flavus,宿主のプラスミド
+19,認定宿主ベクター系,1B1,Thermus属細菌,Thermus caldophilus,宿主のプラスミド
+20,認定宿主ベクター系,1B1,Thermus属細菌,Thermus ruber,宿主のプラスミド
+21,認定宿主ベクター系,1B1,Rhizobium属細菌,Rhizobium radiobacter（ Agrobacterium tumefaciens）,これらの宿主のプラスミド
+22,認定宿主ベクター系,1B1,Rhizobium属細菌,Rhizobium radiobacter（ Agrobacterium tumefaciens）,RK2系のプラスミド
+23,認定宿主ベクター系,1B1,Rhizobium属細菌,Rhizobium rhizogenes,これらの宿主のプラスミド
+24,認定宿主ベクター系,1B1,Rhizobium属細菌,Rhizobium rhizogenes,RK2系のプラスミド
+25,認定宿主ベクター系,1B1,Pseudomonas putida,Pseudomonas putida KT2440,宿主への依存性が高く、宿主以外の細胞に伝達されないもの
+26,認定宿主ベクター系,1B1,Strepotmyces属細菌,Strepotmyces avermitilis,宿主のプラスミド
+27,認定宿主ベクター系,1B1,Strepotmyces属細菌,Strepotmyces avermitilis,SCP2
+28,認定宿主ベクター系,1B1,Strepotmyces属細菌,Strepotmyces avermitilis,SLP1.2
+29,認定宿主ベクター系,1B1,Strepotmyces属細菌,Strepotmyces avermitilis,pIJ101
+30,認定宿主ベクター系,1B1,Strepotmyces属細菌,Strepotmyces avermitilis,アクチノファージφC31の核酸
+31,認定宿主ベクター系,1B1,Strepotmyces属細菌,Strepotmyces coelicolo [Sviolaceoruberとして分類されるStrepotmyces coelicolor A3 ( 2 )株を含む。],宿主のプラスミド
+32,認定宿主ベクター系,1B1,Strepotmyces属細菌,Strepotmyces coelicolo [Sviolaceoruberとして分類されるStrepotmyces coelicolor A3 ( 3 )株を含む。],SCP2
+33,認定宿主ベクター系,1B1,Strepotmyces属細菌,Strepotmyces coelicolo [Sviolaceoruberとして分類されるStrepotmyces coelicolor A3 ( 4 )株を含む。],SLP1.2
+34,認定宿主ベクター系,1B1,Strepotmyces属細菌,Strepotmyces coelicolo [Sviolaceoruberとして分類されるStrepotmyces coelicolor A3 ( 5 )株を含む。],pIJ101
+35,認定宿主ベクター系,1B1,Strepotmyces属細菌,Strepotmyces coelicolo [Sviolaceoruberとして分類されるStrepotmyces coelicolor A3 ( 6 )株を含む。],アクチノファージφC31の核酸
+36,認定宿主ベクター系,1B1,Strepotmyces属細菌,Strepotmyces lividans,宿主のプラスミド
+37,認定宿主ベクター系,1B1,Strepotmyces属細菌,Strepotmyces lividans,SCP2
+38,認定宿主ベクター系,1B1,Strepotmyces属細菌,Strepotmyces lividans,SLP1.2
+39,認定宿主ベクター系,1B1,Strepotmyces属細菌,Strepotmyces lividans,pIJ101
+40,認定宿主ベクター系,1B1,Strepotmyces属細菌,Strepotmyces lividans,アクチノファージφC31の核酸
+41,認定宿主ベクター系,1B1,Strepotmyces属細菌,Strepotmyces parvulus,宿主のプラスミド
+42,認定宿主ベクター系,1B1,Strepotmyces属細菌,Strepotmyces parvulus,SCP2
+43,認定宿主ベクター系,1B1,Strepotmyces属細菌,Strepotmyces parvulus,SLP1.2
+44,認定宿主ベクター系,1B1,Strepotmyces属細菌,Strepotmyces parvulus,pIJ101
+45,認定宿主ベクター系,1B1,Strepotmyces属細菌,Strepotmyces parvulus,アクチノファージφC31の核酸
+46,認定宿主ベクター系,1B1,Strepotmyces属細菌,Strepotmyces griseus,宿主のプラスミド
+47,認定宿主ベクター系,1B1,Strepotmyces属細菌,Strepotmyces griseus,SCP2
+48,認定宿主ベクター系,1B1,Strepotmyces属細菌,Strepotmyces griseus,SLP1.2
+49,認定宿主ベクター系,1B1,Strepotmyces属細菌,Strepotmyces griseus,pIJ101
+50,認定宿主ベクター系,1B1,Strepotmyces属細菌,Strepotmyces griseus,アクチノファージφC31の核酸
+51,認定宿主ベクター系,1B1,Strepotmyces属細菌,Strepotmyces kasugaensis,宿主のプラスミド
+52,認定宿主ベクター系,1B1,Strepotmyces属細菌,Strepotmyces kasugaensis,SCP2
+53,認定宿主ベクター系,1B1,Strepotmyces属細菌,Strepotmyces kasugaensis,SLP1.2
+54,認定宿主ベクター系,1B1,Strepotmyces属細菌,Strepotmyces kasugaensis,pIJ101
+55,認定宿主ベクター系,1B1,Strepotmyces属細菌,Strepotmyces kasugaensis,アクチノファージφC31の核酸
+56,認定宿主ベクター系,1B1,Neurospora crassa,Neurospora crassaのイノシトール要求性株,宿主のプラスミド
+57,認定宿主ベクター系,1B1,Neurospora crassa,Neurospora crassaの分生子離脱変異株,宿主のプラスミド
+58,認定宿主ベクター系,1B1,Neurospora crassa,Neurospora crassaの易水溶性変異株,宿主のプラスミド
+59,認定宿主ベクター系,1B1,Pichia pastoris,Pichia pastoris,宿主のプラスミド
+60,認定宿主ベクター系,1B1,Schizosaccharomyces,Schizosaccharomyces pombe,宿主のプラスミドpombe
+61,認定宿主ベクター系,1B1,Rhodococcus属細菌,Rhodococcus erythropolis,pRE2895
+62,認定宿主ベクター系,1B1,Rhodococcus属細菌,Rhodococcus erythropolis,pRE8428
+63,認定宿主ベクター系,1B1,Rhodococcus属細菌,Rhodococcus erythropolis,pTNR
+64,認定宿主ベクター系,1B1,Rhodococcus属細菌,Rhodococcus opacus,pRE2895
+65,認定宿主ベクター系,1B1,Rhodococcus属細菌,Rhodococcus opacus,pRE8428
+66,認定宿主ベクター系,1B1,Rhodococcus属細菌,Rhodococcus opacus,pTNR
+67,特定認定宿主ベクター系,2B2,EK2,Escherichia coli K12,λgtZJvirλB
+68,特定認定宿主ベクター系,2B2,EK2,Escherichia coli χ1776,pSC101
+69,特定認定宿主ベクター系,2B2,EK2,Escherichia coli χ1776,pMB9
+70,特定認定宿主ベクター系,2B2,EK2,Escherichia coli χ1776,pBR313
+71,特定認定宿主ベクター系,2B2,EK2,Escherichia coli χ1776,pBR322
+72,特定認定宿主ベクター系,2B2,EK2,Escherichia coli χ1776,pBR325
+73,特定認定宿主ベクター系,2B2,EK2,Escherichia coli χ1776,pBR327
+74,特定認定宿主ベクター系,2B2,EK2,Escherichia coli χ1776,pDH24
+75,特定認定宿主ベクター系,2B2,EK2,Escherichia coli χ1776,pGL101
+76,特定認定宿主ベクター系,2B2,EK2,Escherichia coli χ1776,pHB1
+77,特定認定宿主ベクター系,2B2,EK2,Escherichia coli χ1776,YIp1
+78,特定認定宿主ベクター系,2B2,EK2,Escherichia coli χ1776,YE2
+79,特定認定宿主ベクター系,2B2,EK2,Escherichia coli χ1776,YEp4
+80,特定認定宿主ベクター系,2B2,EK2,Escherichia coli χ1776,YIp5
+81,特定認定宿主ベクター系,2B2,EK2,Escherichia coli χ1776,YEp6
+82,特定認定宿主ベクター系,2B2,EK2,Escherichia coli χ1776,YRp7
+83,特定認定宿主ベクター系,2B2,EK2,Escherichia coli χ1776,YEp20
+84,特定認定宿主ベクター系,2B2,EK2,Escherichia coli χ1776,YEp21
+85,特定認定宿主ベクター系,2B2,EK2,Escherichia coli χ1776,YEp24
+86,特定認定宿主ベクター系,2B2,EK2,Escherichia coli χ1776,YIp25
+87,特定認定宿主ベクター系,2B2,EK2,Escherichia coli χ1776,YIp26
+88,特定認定宿主ベクター系,2B2,EK2,Escherichia coli χ1776,YIp27
+89,特定認定宿主ベクター系,2B2,EK2,Escherichia coli χ1776,YIp28
+90,特定認定宿主ベクター系,2B2,EK2,Escherichia coli χ1776,YIp29
+91,特定認定宿主ベクター系,2B2,EK2,Escherichia coli χ1776,YIp30
+92,特定認定宿主ベクター系,2B2,EK2,Escherichia coli χ1776,YIp31
+93,特定認定宿主ベクター系,2B2,EK2,Escherichia coli χ1776,YIp32
+94,特定認定宿主ベクター系,2B2,EK2,Escherichia coli χ1776,YIp33
+95,特定認定宿主ベクター系,2B2,EK2,Escherichia coli DP50supF,λgtWESλB
+96,特定認定宿主ベクター系,2B2,EK2,Escherichia coli DP50supF,λgtALOλB
+97,特定認定宿主ベクター系,2B2,EK2,Escherichia coli DP50supF,Charon3A
+98,特定認定宿主ベクター系,2B2,EK2,Escherichia coli DP50supF,Charon4A
+99,特定認定宿主ベクター系,2B2,EK2,Escherichia coli DP50supF,Charon16A
+100,特定認定宿主ベクター系,2B2,EK2,Escherichia coli DP50supF,Charon21A
+101,特定認定宿主ベクター系,2B2,EK2,Escherichia coli DP50supF,Charon23A
+102,特定認定宿主ベクター系,2B2,EK2,Escherichia coli DP50supF,Charon24A
+103,特定認定宿主ベクター系,2B2,EK2,Escherichia coli χ2447,λgtWESλB
+104,特定認定宿主ベクター系,2B2,EK2,Escherichia coli χ2447,λgtALOλB
+105,特定認定宿主ベクター系,2B2,EK2,Escherichia coli χ2447,Charon3A
+106,特定認定宿主ベクター系,2B2,EK2,Escherichia coli χ2447,Charon4A
+107,特定認定宿主ベクター系,2B2,EK2,Escherichia coli χ2447,Charon16A
+108,特定認定宿主ベクター系,2B2,EK2,Escherichia coli χ2447,Charon21A
+109,特定認定宿主ベクター系,2B2,EK2,Escherichia coli χ2447,Charon23A
+110,特定認定宿主ベクター系,2B2,EK2,Escherichia coli χ2447,Charon24A
+111,特定認定宿主ベクター系,2B2,EK2,Escherichia coli χ2281,λgtWESλB
+112,特定認定宿主ベクター系,2B2,EK2,Escherichia coli χ2281,λgtALOλB
+113,特定認定宿主ベクター系,2B2,EK2,Escherichia coli χ2281,Charon3A
+114,特定認定宿主ベクター系,2B2,EK2,Escherichia coli χ2281,Charon4A
+115,特定認定宿主ベクター系,2B2,EK2,Escherichia coli χ2281,Charon16A
+116,特定認定宿主ベクター系,2B2,EK2,Escherichia coli χ2281,Charon21A
+117,特定認定宿主ベクター系,2B2,EK2,Escherichia coli χ2281,Charon23A
+118,特定認定宿主ベクター系,2B2,EK2,Escherichia coli χ2281,Charon24A
+119,特定認定宿主ベクター系,2B2,EK2,Escherichia coli DP50,Charon3A
+120,特定認定宿主ベクター系,2B2,EK2,Escherichia coli DP50,Charon4A
+121,特定認定宿主ベクター系,2B2,EK2,Escherichia coli DP50,Charon16A
+122,特定認定宿主ベクター系,2B2,EK2,Escherichia coli DP50,Charon23A
+123,特定認定宿主ベクター系,2B2,EK2,Escherichia coli DP50,Charon24A
+124,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae ste-VC9,YIp1
+125,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae ste-VC9,YEp2
+126,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae ste-VC9,YEp4
+127,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae ste-VC9,YIp5
+128,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae ste-VC9,YEp6
+129,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae ste-VC9,YRp7
+130,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae ste-VC9,YEp20
+131,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae ste-VC9,YEp21
+132,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae ste-VC9,YEp24
+133,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae ste-VC9,YIp25
+134,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae ste-VC9,YIp26
+135,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae ste-VC9,YIp27
+136,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae ste-VC9,YIp28
+137,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae ste-VC9,YIp29
+138,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae ste-VC9,YIp30
+139,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae ste-VC9,YIp31
+140,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae ste-VC9,YIp32
+141,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae ste-VC9,YIp33
+142,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY1,YIp1
+143,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY1,YEp2
+144,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY1,YEp4
+145,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY1,YIp5
+146,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY1,YEp6
+147,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY1,YRp7
+148,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY1,YEp20
+149,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY1,YEp21
+150,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY1,YEp24
+151,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY1,YIp25
+152,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY1,YIp26
+153,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY1,YIp27
+154,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY1,YIp28
+155,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY1,YIp29
+156,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY1,YIp30
+157,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY1,YIp31
+158,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY1,YIp32
+159,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY1,YIp33
+160,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY2,YIp1
+161,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY2,YEp2
+162,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY2,YEp4
+163,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY2,YIp5
+164,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY2,YEp6
+165,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY2,YRp7
+166,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY2,YEp20
+167,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY2,YEp21
+168,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY2,YEp24
+169,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY2,YIp25
+170,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY2,YIp26
+171,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY2,YIp27
+172,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY2,YIp28
+173,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY2,YIp29
+174,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY2,YIp30
+175,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY2,YIp31
+176,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY2,YIp32
+177,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY2,YIp33
+178,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY3,YIp1
+179,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY3,YEp2
+180,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY3,YEp4
+181,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY3,YIp5
+182,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY3,YEp6
+183,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY3,YRp7
+184,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY3,YEp20
+185,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY3,YEp21
+186,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY3,YEp24
+187,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY3,YIp25
+188,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY3,YIp26
+189,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY3,YIp27
+190,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY3,YIp28
+191,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY3,YIp29
+192,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY3,YIp30
+193,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY3,YIp31
+194,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY3,YIp32
+195,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY3,YIp33
+196,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY4,YIp1
+197,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY4,YEp2
+198,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY4,YEp4
+199,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY4,YIp5
+200,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY4,YEp6
+201,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY4,YRp7
+202,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY4,YEp20
+203,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY4,YEp21
+204,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY4,YEp24
+205,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY4,YIp25
+206,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY4,YIp26
+207,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY4,YIp27
+208,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY4,YIp28
+209,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY4,YIp29
+210,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY4,YIp30
+211,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY4,YIp31
+212,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY4,YIp32
+213,特定認定宿主ベクター系,2B2,SC2,Saccharomyces cerevisiae SHY4,YIp33
+214,特定認定宿主ベクター系,2B2,BS2,Bacillus subtilis ASB298,pUB110
+215,特定認定宿主ベクター系,2B2,BS2,Bacillus subtilis ASB298,pC194
+216,特定認定宿主ベクター系,2B2,BS2,Bacillus subtilis ASB298,pS194
+217,特定認定宿主ベクター系,2B2,BS2,Bacillus subtilis ASB298,pSA2100
+218,特定認定宿主ベクター系,2B2,BS2,Bacillus subtilis ASB298,pE194
+219,特定認定宿主ベクター系,2B2,BS2,Bacillus subtilis ASB298,pT127
+220,特定認定宿主ベクター系,2B2,BS2,Bacillus subtilis ASB298,pUB112
+221,特定認定宿主ベクター系,2B2,BS2,Bacillus subtilis ASB298,pC221
+222,特定認定宿主ベクター系,2B2,BS2,Bacillus subtilis ASB298,pAB124
+223,2,-,原核生物,Actinobacillus capsulatus,哺乳動物等に対する病原性がないものを除く。
+224,2,-,原核生物,Actinobacillus equuli,哺乳動物等に対する病原性がないものを除く。
+225,2,-,原核生物,Actinobacillus lignieresii,哺乳動物等に対する病原性がないものを除く。
+226,2,-,原核生物,Actinobacillus pleuropneumoniae,哺乳動物等に対する病原性がないものを除く。
+227,2,-,原核生物,Actinobacillus suis,哺乳動物等に対する病原性がないものを除く。
+228,2,-,原核生物,Actinobacillus ureae (旧分類名Pasteurella ureae) ,哺乳動物等に対する病原性がないものを除く。
+229,2,-,原核生物,Actinomadura madurae ,哺乳動物等に対する病原性がないものを除く。
+230,2,-,原核生物,Actinomadura pelletieri,哺乳動物等に対する病原性がないものを除く。
+231,2,-,原核生物,Actinomyces bovis,哺乳動物等に対する病原性がないものを除く。
+232,2,-,原核生物,Actinomyces israelii,哺乳動物等に対する病原性がないものを除く。
+233,2,-,原核生物,Actinomyces viscosus,哺乳動物等に対する病原性がないものを除く。
+234,2,-,原核生物,Aeromonas hydrophila,哺乳動物等に対する病原性がないものを除く。
+235,2,-,原核生物,Aeromonas sobria,哺乳動物等に対する病原性がないものを除く。
+236,2,-,原核生物,Aeromonas veronii,哺乳動物等に対する病原性がないものを除く。
+237,2,-,原核生物,Anaplasma bovis,哺乳動物等に対する病原性がないものを除く。
+238,2,-,原核生物,Anaplasma marginale,哺乳動物等に対する病原性がないものを除く。
+239,2,-,原核生物,Anaplasma ovis,哺乳動物等に対する病原性がないものを除く。
+240,2,-,原核生物,Anaplasma phagocytophilum,哺乳動物等に対する病原性がないものを除く。
+241,2,-,原核生物,Arcanobacterium pyogenes (旧分類名Actinomyces pyogenes),哺乳動物等に対する病原性がないものを除く。
+242,2,-,原核生物,Avibacterium paragallinarum (別名Haemophilus paragallinarum),哺乳動物等に対する病原性がないものを除く。
+243,2,-,原核生物,Bacillus anthracis(34F2株に限る。),哺乳動物等に対する病原性がないものを除く。
+244,2,-,原核生物,Bacillus cereus,哺乳動物等に対する病原性がないものを除く。
+245,2,-,原核生物,Bacteroides fragilis,哺乳動物等に対する病原性がないものを除く。
+246,2,-,原核生物,Bartonella bacilliformis,哺乳動物等に対する病原性がないものを除く。
+247,2,-,原核生物,Bartonella clarridgeiae,哺乳動物等に対する病原性がないものを除く。
+248,2,-,原核生物,Bartonella henselae,哺乳動物等に対する病原性がないものを除く。
+249,2,-,原核生物,Bartonella quintana,哺乳動物等に対する病原性がないものを除く。
+250,2,-,原核生物,Bartonella vinsonii,哺乳動物等に対する病原性がないものを除く。
+251,2,-,原核生物,Bordetella avium,哺乳動物等に対する病原性がないものを除く。
+252,2,-,原核生物,Bordetella bronchiseptica,哺乳動物等に対する病原性がないものを除く。
+253,2,-,原核生物,Bordetella parapertussis,哺乳動物等に対する病原性がないものを除く。
+254,2,-,原核生物,Bordetella pertussis,哺乳動物等に対する病原性がないものを除く。
+255,2,-,原核生物,Borrelia属全種,哺乳動物等に対する病原性がないものを除く。
+256,2,-,原核生物,Brachyspira hyodysenteriae (別名Serpulina hyodysenteriae),哺乳動物等に対する病原性がないものを除く。
+257,2,-,原核生物,Brachyspira pilosicoli,哺乳動物等に対する病原性がないものを除く。
+258,2,-,原核生物,Burkholderia cepacia,哺乳動物等に対する病原性がないものを除く。
+259,2,-,原核生物,Campylobacter coli,哺乳動物等に対する病原性がないものを除く。
+260,2,-,原核生物,Campylobacter fetus,哺乳動物等に対する病原性がないものを除く。
+261,2,-,原核生物,Campylobacter jejuni,哺乳動物等に対する病原性がないものを除く。
+262,2,-,原核生物,Capnocytophaga canimorsus,哺乳動物等に対する病原性がないものを除く。
+263,2,-,原核生物,Capnocytophaga cynodegmi,哺乳動物等に対する病原性がないものを除く。
+264,2,-,原核生物,Capnocytophaga gingivalis,哺乳動物等に対する病原性がないものを除く。
+265,2,-,原核生物,Capnocytophaga granulosa,哺乳動物等に対する病原性がないものを除く。
+266,2,-,原核生物,Capnocytophaga haemolytica,哺乳動物等に対する病原性がないものを除く。
+267,2,-,原核生物,Capnocytophaga leadbetteri,哺乳動物等に対する病原性がないものを除く。
+268,2,-,原核生物,Capnocytophaga ochracea,哺乳動物等に対する病原性がないものを除く。
+269,2,-,原核生物,Capnocytophaga sputigena,哺乳動物等に対する病原性がないものを除く。
+270,2,-,原核生物,Chlamydia muridarum,哺乳動物等に対する病原性がないものを除く。
+271,2,-,原核生物,Chlamydia suis,哺乳動物等に対する病原性がないものを除く。
+272,2,-,原核生物,Chlamydia trachomatis,哺乳動物等に対する病原性がないものを除く。
+273,2,-,原核生物,Chlamydophila abortus,哺乳動物等に対する病原性がないものを除く。
+274,2,-,原核生物,Chlamydophila caviae,哺乳動物等に対する病原性がないものを除く。
+275,2,-,原核生物,Chlamydophila felis,哺乳動物等に対する病原性がないものを除く。
+276,2,-,原核生物,Chlamydophila pecorum,哺乳動物等に対する病原性がないものを除く。
+277,2,-,原核生物,Chlamydophila pneumoniae,哺乳動物等に対する病原性がないものを除く。
+278,2,-,原核生物,Chlamydophila psittaci,哺乳動物等に対する病原性がないものを除く。
+279,2,-,原核生物,Chromobacterium violaceum,哺乳動物等に対する病原性がないものを除く。
+280,2,-,原核生物,Citrobacter rodentium,哺乳動物等に対する病原性がないものを除く。
+281,2,-,原核生物,Clostridium botulinum,哺乳動物等に対する病原性がないものを除く。
+282,2,-,原核生物,Clostridium chauvoei,哺乳動物等に対する病原性がないものを除く。
+283,2,-,原核生物,Clostridium colinum,哺乳動物等に対する病原性がないものを除く。
+284,2,-,原核生物,Clostridium difficile,哺乳動物等に対する病原性がないものを除く。
+285,2,-,原核生物,Clostridium haemolyticum,哺乳動物等に対する病原性がないものを除く。
+286,2,-,原核生物,Clostridium histolyticum,哺乳動物等に対する病原性がないものを除く。
+287,2,-,原核生物,Clostridium novyi,哺乳動物等に対する病原性がないものを除く。
+288,2,-,原核生物,Clostridium perfringens,哺乳動物等に対する病原性がないものを除く。
+289,2,-,原核生物,Clostridium piliforme,哺乳動物等に対する病原性がないものを除く。
+290,2,-,原核生物,Clostridium septicum,哺乳動物等に対する病原性がないものを除く。
+291,2,-,原核生物,Clostridium sordellii,哺乳動物等に対する病原性がないものを除く。
+292,2,-,原核生物,Clostridium sporogenes,哺乳動物等に対する病原性がないものを除く。
+293,2,-,原核生物,Clostridium tetani,哺乳動物等に対する病原性がないものを除く。
+294,2,-,原核生物,Corynebacterium diphtheriae,哺乳動物等に対する病原性がないものを除く。
+295,2,-,原核生物,Corynebacterium jeikeium,哺乳動物等に対する病原性がないものを除く。
+296,2,-,原核生物,Corynebacterium kutscheri ,哺乳動物等に対する病原性がないものを除く。
+297,2,-,原核生物,Corynebacterium pseudodiphtheriticum,哺乳動物等に対する病原性がないものを除く。
+298,2,-,原核生物,Corynebacterium pseudotuberculosis,哺乳動物等に対する病原性がないものを除く。
+299,2,-,原核生物,Corynebacterium renale,哺乳動物等に対する病原性がないものを除く。
+300,2,-,原核生物,Corynebacterium ulcerans,哺乳動物等に対する病原性がないものを除く。
+301,2,-,原核生物,Ehrlichia canis,哺乳動物等に対する病原性がないものを除く。
+302,2,-,原核生物,Ehrlichia chaffeensis,哺乳動物等に対する病原性がないものを除く。
+303,2,-,原核生物,Ehrlichia ewingii,哺乳動物等に対する病原性がないものを除く。
+304,2,-,原核生物,Ehrlichia muris,哺乳動物等に対する病原性がないものを除く。
+305,2,-,原核生物,Elizabethkingia menigoseptica (旧分類名Chryseobacterium meningosepticum),哺乳動物等に対する病原性がないものを除く。
+306,2,-,原核生物,Enterococcus faecalis (バンコマイシン耐性株に限る。),哺乳動物等に対する病原性がないものを除く。
+307,2,-,原核生物,Enterococcus faecium (バンコマイシン耐性株に限る。),哺乳動物等に対する病原性がないものを除く。
+308,2,-,原核生物,Erysipelothrix rhusiopathiae,哺乳動物等に対する病原性がないものを除く。
+309,2,-,原核生物,Erysipelothrix tonsillarum,哺乳動物等に対する病原性がないものを除く。
+310,2,-,原核生物,Escherichia albertii,哺乳動物等に対する病原性がないものを除く。
+311,2,-,原核生物,Escherichia coli (腸管、尿路等における病原性を有する株に限る。),哺乳動物等に対する病原性がないものを除く。
+312,2,-,原核生物,Facklamia sourekii,哺乳動物等に対する病原性がないものを除く。
+313,2,-,原核生物,Fluoribacter bozemanae,哺乳動物等に対する病原性がないものを除く。
+314,2,-,原核生物,Fluoribacter dumoffii,哺乳動物等に対する病原性がないものを除く。
+315,2,-,原核生物,Fluoribacter gormanii,哺乳動物等に対する病原性がないものを除く。
+316,2,-,原核生物,Francisella novicida,哺乳動物等に対する病原性がないものを除く。
+317,2,-,原核生物,Francisella philomiragia,哺乳動物等に対する病原性がないものを除く。
+318,2,-,原核生物,Francisella tularensis subsp. holarctica,哺乳動物等に対する病原性がないものを除く。
+319,2,-,原核生物,Francisella tularensis subsp. mediasiatica,哺乳動物等に対する病原性がないものを除く。
+320,2,-,原核生物,Fusobacterium necrophorum,哺乳動物等に対する病原性がないものを除く。
+321,2,-,原核生物,Haemophilus aegyptius,哺乳動物等に対する病原性がないものを除く。
+322,2,-,原核生物,Haemophilus ducreyi,哺乳動物等に対する病原性がないものを除く。
+323,2,-,原核生物,Haemophilus influenzae,哺乳動物等に対する病原性がないものを除く。
+324,2,-,原核生物,Haemophilus parasuis,哺乳動物等に対する病原性がないものを除く。
+325,2,-,原核生物,Helicobacter bilis,哺乳動物等に対する病原性がないものを除く。
+326,2,-,原核生物,Helicobacter felis,哺乳動物等に対する病原性がないものを除く。
+327,2,-,原核生物,Helicobacter heilmannii,哺乳動物等に対する病原性がないものを除く。
+328,2,-,原核生物,Helicobacter hepaticus,哺乳動物等に対する病原性がないものを除く。
+329,2,-,原核生物,Helicobacter pylori,哺乳動物等に対する病原性がないものを除く。
+330,2,-,原核生物,Histophilus somni (旧分類名Haemophilus somnus),哺乳動物等に対する病原性がないものを除く。
+331,2,-,原核生物,Klebsiella granulomatis,哺乳動物等に対する病原性がないものを除く。
+332,2,-,原核生物,Klebsiella oxytoca,哺乳動物等に対する病原性がないものを除く。
+333,2,-,原核生物,Klebsiella pneumoniae,哺乳動物等に対する病原性がないものを除く。
+334,2,-,原核生物,Lawsonia intracellularis,哺乳動物等に対する病原性がないものを除く。
+335,2,-,原核生物,Legionella属全種,哺乳動物等に対する病原性がないものを除く。
+336,2,-,原核生物,Leptospira interrogans,哺乳動物等に対する病原性がないものを除く。
+337,2,-,原核生物,Listeria ivanovii,哺乳動物等に対する病原性がないものを除く。
+338,2,-,原核生物,Listeria monocytogenes,哺乳動物等に対する病原性がないものを除く。
+339,2,-,原核生物,Mannheimia haemolytica (旧分類名Pasteurella haemolytica),哺乳動物等に対する病原性がないものを除く。
+340,2,-,原核生物,Moraxella bovis,哺乳動物等に対する病原性がないものを除く。
+341,2,-,原核生物,Moraxella catarrhalis ,哺乳動物等に対する病原性がないものを除く。
+342,2,-,原核生物,Moraxella ovis,哺乳動物等に対する病原性がないものを除く。
+343,2,-,原核生物,Mycobacterium avium subsp. avium,哺乳動物等に対する病原性がないものを除く。
+344,2,-,原核生物,Mycobacterium avium subsp. paratuberculosis,哺乳動物等に対する病原性がないものを除く。
+345,2,-,原核生物,Mycobacterium bovis (BCG株に限る。),哺乳動物等に対する病原性がないものを除く。
+346,2,-,原核生物,Mycobacterium caprae,哺乳動物等に対する病原性がないものを除く。
+347,2,-,原核生物,Mycobacterium chelonae,哺乳動物等に対する病原性がないものを除く。
+348,2,-,原核生物,Mycobacterium fortuitum,哺乳動物等に対する病原性がないものを除く。
+349,2,-,原核生物,Mycobacterium gastri,哺乳動物等に対する病原性がないものを除く。
+350,2,-,原核生物,Mycobacterium genavense,哺乳動物等に対する病原性がないものを除く。
+351,2,-,原核生物,Mycobacterium haemophilum,哺乳動物等に対する病原性がないものを除く。
+352,2,-,原核生物,Mycobacterium intracellulare,哺乳動物等に対する病原性がないものを除く。
+353,2,-,原核生物,Mycobacterium kansasii,哺乳動物等に対する病原性がないものを除く。
+354,2,-,原核生物,Mycobacterium leprae,哺乳動物等に対する病原性がないものを除く。
+355,2,-,原核生物,Mycobacterium malmoense,哺乳動物等に対する病原性がないものを除く。
+356,2,-,原核生物,Mycobacterium marinum,哺乳動物等に対する病原性がないものを除く。
+357,2,-,原核生物,Mycobacterium microti,哺乳動物等に対する病原性がないものを除く。
+358,2,-,原核生物,Mycobacterium mucogenicum,哺乳動物等に対する病原性がないものを除く。
+359,2,-,原核生物,Mycobacterium paratuberculosis,哺乳動物等に対する病原性がないものを除く。
+360,2,-,原核生物,Mycobacterium scrofulaceum,哺乳動物等に対する病原性がないものを除く。
+361,2,-,原核生物,Mycobacterium simiae,哺乳動物等に対する病原性がないものを除く。
+362,2,-,原核生物,Mycobacterium szulgai,哺乳動物等に対する病原性がないものを除く。
+363,2,-,原核生物,Mycobacterium ulcerans,哺乳動物等に対する病原性がないものを除く。
+364,2,-,原核生物,Mycobacterium xenopi,哺乳動物等に対する病原性がないものを除く。
+365,2,-,原核生物,Mycoplasma属全種 (Mycoplasma mycoides subsp. mycoidesを除き、 Mycoplasma mycoides subsp. mycoides(V株)を含む。),哺乳動物等に対する病原性がないものを除く。
+366,2,-,原核生物,Neisseria gonorrhoeae,哺乳動物等に対する病原性がないものを除く。
+367,2,-,原核生物,Neisseria meningitidis,哺乳動物等に対する病原性がないものを除く。
+368,2,-,原核生物,Neorickettsia risticii,哺乳動物等に対する病原性がないものを除く。
+369,2,-,原核生物,Neorickettsia sennetsu,哺乳動物等に対する病原性がないものを除く。
+370,2,-,原核生物,Nocardia abscessus,哺乳動物等に対する病原性がないものを除く。
+371,2,-,原核生物,Nocardia aobensis,哺乳動物等に対する病原性がないものを除く。
+372,2,-,原核生物,Nocardia arthritidis,哺乳動物等に対する病原性がないものを除く。
+373,2,-,原核生物,Nocardia asteroides,哺乳動物等に対する病原性がないものを除く。
+374,2,-,原核生物,Nocardia brasiliensis,哺乳動物等に対する病原性がないものを除く。
+375,2,-,原核生物,Nocardia cyriacigeorgica,哺乳動物等に対する病原性がないものを除く。
+376,2,-,原核生物,Nocardia elegans,哺乳動物等に対する病原性がないものを除く。
+377,2,-,原核生物,Nocardia farcinica,哺乳動物等に対する病原性がないものを除く。
+378,2,-,原核生物,Nocardia niigatensis,哺乳動物等に対する病原性がないものを除く。
+379,2,-,原核生物,Nocardia nova,哺乳動物等に対する病原性がないものを除く。
+380,2,-,原核生物,Nocardia otitidiscaviarum,哺乳動物等に対する病原性がないものを除く。
+381,2,-,原核生物,Nocardia paucivorans,哺乳動物等に対する病原性がないものを除く。
+382,2,-,原核生物,Nocardia puris,哺乳動物等に対する病原性がないものを除く。
+383,2,-,原核生物,Nocardia vinacea,哺乳動物等に対する病原性がないものを除く。
+384,2,-,原核生物,Pasteurella multocida (出血性敗血症又は家きんコレラ由来ではない株に限る。),哺乳動物等に対する病原性がないものを除く。
+385,2,-,原核生物,Pasteurella pneumotropica ,哺乳動物等に対する病原性がないものを除く。
+386,2,-,原核生物,Pasteurella trehalosi,哺乳動物等に対する病原性がないものを除く。
+387,2,-,原核生物,Photobacterium damselae,哺乳動物等に対する病原性がないものを除く。
+388,2,-,原核生物,Plesiomonas shigelloides,哺乳動物等に対する病原性がないものを除く。
+389,2,-,原核生物,Pseudomonas aeruginosa,哺乳動物等に対する病原性がないものを除く。
+390,2,-,原核生物,Rhodococcus equi,哺乳動物等に対する病原性がないものを除く。
+391,2,-,原核生物,Riemerella anatipestifer,哺乳動物等に対する病原性がないものを除く。
+392,2,-,原核生物,Salmonella属全種 (S. enterica subsp. enterica serovar Paratyphi A、S. enterica subsp. enterica serovar Typhi、S. enterica subsp. enterica serovar TyphimuriumのTA98株、TA100株及びTA1535株並び にS. subterraneaを除く。) ,哺乳動物等に対する病原性がないものを除く。
+393,2,-,原核生物,Serratia marcescens,哺乳動物等に対する病原性がないものを除く。
+394,2,-,原核生物,Shigella属全種,哺乳動物等に対する病原性がないものを除く。
+395,2,-,原核生物,Simkania negevensis,哺乳動物等に対する病原性がないものを除く。
+396,2,-,原核生物,Staphylococcus aureus subsp. anaerobius,哺乳動物等に対する病原性がないものを除く。
+397,2,-,原核生物,Staphylococcus aureus subsp. aureus,哺乳動物等に対する病原性がないものを除く。
+398,2,-,原核生物,Staphylococcus hyicus ,哺乳動物等に対する病原性がないものを除く。
+399,2,-,原核生物,Streptobacillus moniliformis,哺乳動物等に対する病原性がないものを除く。
+400,2,-,原核生物,Streptococcus acidominimus,哺乳動物等に対する病原性がないものを除く。
+401,2,-,原核生物,Streptococcus agalactiae,哺乳動物等に対する病原性がないものを除く。
+402,2,-,原核生物,Streptococcus anginosus,哺乳動物等に対する病原性がないものを除く。
+403,2,-,原核生物,Streptococcus canis,哺乳動物等に対する病原性がないものを除く。
+404,2,-,原核生物,Streptococcus dysgalactiae subsp. dysgalactiae,哺乳動物等に対する病原性がないものを除く。
+405,2,-,原核生物,Streptococcus dysgalactiae subsp. equisimilis,哺乳動物等に対する病原性がないものを除く。
+406,2,-,原核生物,Streptococcus equi subsp. equi,哺乳動物等に対する病原性がないものを除く。
+407,2,-,原核生物,Streptococcus equi subsp. ruminatorum,哺乳動物等に対する病原性がないものを除く。
+408,2,-,原核生物,Streptococcus equi subsp. zooepidemicus,哺乳動物等に対する病原性がないものを除く。
+409,2,-,原核生物,Streptococcus intermedius,哺乳動物等に対する病原性がないものを除く。
+410,2,-,原核生物,Streptococcus parasanguinis,哺乳動物等に対する病原性がないものを除く。
+411,2,-,原核生物,Streptococcus pneumoniae,哺乳動物等に対する病原性がないものを除く。
+412,2,-,原核生物,Streptococcus porcinus,哺乳動物等に対する病原性がないものを除く。
+413,2,-,原核生物,Streptococcus pyogenes,哺乳動物等に対する病原性がないものを除く。
+414,2,-,原核生物,Streptococcus sanguinis,哺乳動物等に対する病原性がないものを除く。
+415,2,-,原核生物,Streptococcus sinensis,哺乳動物等に対する病原性がないものを除く。
+416,2,-,原核生物,Streptococcus suis,哺乳動物等に対する病原性がないものを除く。
+417,2,-,原核生物,Streptococcus uberis,哺乳動物等に対する病原性がないものを除く。
+418,2,-,原核生物,Tatlockia maceachernii,哺乳動物等に対する病原性がないものを除く。
+419,2,-,原核生物,Tatlockia micdadei,哺乳動物等に対する病原性がないものを除く。
+420,2,-,原核生物,Taylorella equigenitalis,哺乳動物等に対する病原性がないものを除く。
+421,2,-,原核生物,Treponema carateum,哺乳動物等に対する病原性がないものを除く。
+422,2,-,原核生物,Treponema pallidum,哺乳動物等に対する病原性がないものを除く。
+423,2,-,原核生物,Treponema pertenue,哺乳動物等に対する病原性がないものを除く。
+424,2,-,原核生物,Tropheryma whipplei,哺乳動物等に対する病原性がないものを除く。
+425,2,-,原核生物,Ureaplasma urealyticum,哺乳動物等に対する病原性がないものを除く。
+426,2,-,原核生物,Vibrio cholerae,哺乳動物等に対する病原性がないものを除く。
+427,2,-,原核生物,Vibrio fluvialis,哺乳動物等に対する病原性がないものを除く。
+428,2,-,原核生物,Vibrio mimicus,哺乳動物等に対する病原性がないものを除く。
+429,2,-,原核生物,Vibrio parahaemolyticus,哺乳動物等に対する病原性がないものを除く。
+430,2,-,原核生物,Vibrio vulnificus,哺乳動物等に対する病原性がないものを除く。
+431,2,-,原核生物,Yersinia enterocolitica,哺乳動物等に対する病原性がないものを除く。
+432,2,-,原核生物,Yersinia pseudotuberculosis,哺乳動物等に対する病原性がないものを除く。
+433,2,-,真菌,Aspergillus flavus (毒素産生株に限る。),哺乳動物等に対する病原性がないものを除く。
+434,2,-,真菌,Aspergillus fumigatus,哺乳動物等に対する病原性がないものを除く。
+435,2,-,真菌,Aspergillus parasiticus (毒素産生株に限る。),哺乳動物等に対する病原性がないものを除く。
+436,2,-,真菌,Candida albicans ,哺乳動物等に対する病原性がないものを除く。
+437,2,-,真菌,Cladosporium carrionii,哺乳動物等に対する病原性がないものを除く。
+438,2,-,真菌,Cladosporium trichoides,哺乳動物等に対する病原性がないものを除く。
+439,2,-,真菌,Cryptococcus gattii,哺乳動物等に対する病原性がないものを除く。
+440,2,-,真菌,Cryptococcus neoformans,哺乳動物等に対する病原性がないものを除く。
+441,2,-,真菌,Epidermophyton floccosum,哺乳動物等に対する病原性がないものを除く。
+442,2,-,真菌,Exophiala dermatitidis,哺乳動物等に対する病原性がないものを除く。
+443,2,-,真菌,Fonsecaea pedrosoi,哺乳動物等に対する病原性がないものを除く。
+444,2,-,真菌,Fusarium属全種(毒素産生株に限る。),哺乳動物等に対する病原性がないものを除く。
+445,2,-,真菌,Microsporum属全種,哺乳動物等に対する病原性がないものを除く。
+446,2,-,真菌,Penicillium属全種(毒素産生株に限り、Penicillium marneffeiを除く。),哺乳動物等に対する病原性がないものを除く。
+447,2,-,真菌,Pneumocystis属全種 ,哺乳動物等に対する病原性がないものを除く。
+448,2,-,真菌,Sporothrix schenckii,哺乳動物等に対する病原性がないものを除く。
+449,2,-,真菌,Trichophyton属全種 ,哺乳動物等に対する病原性がないものを除く。
+450,2,-,原虫,Acanthamoeba属全種,哺乳動物等に対する病原性がないものを除く。
+451,2,-,原虫,Babesia属全種,哺乳動物等に対する病原性がないものを除く。
+452,2,-,原虫,Balamuthia mandrillaris,哺乳動物等に対する病原性がないものを除く。
+453,2,-,原虫,Balantidium coli,哺乳動物等に対する病原性がないものを除く。
+454,2,-,原虫,Besnoitia属全種,哺乳動物等に対する病原性がないものを除く。
+455,2,-,原虫,Buxtonella sulcata,哺乳動物等に対する病原性がないものを除く。
+456,2,-,原虫,Caryospora属全種,哺乳動物等に対する病原性がないものを除く。
+457,2,-,原虫,Cryptosporidium属全種,哺乳動物等に対する病原性がないものを除く。
+458,2,-,原虫,Cyclospora属全種,哺乳動物等に対する病原性がないものを除く。
+459,2,-,原虫,Eimeria属全種,哺乳動物等に対する病原性がないものを除く。
+460,2,-,原虫,Entamoeba属全種,哺乳動物等に対する病原性がないものを除く。
+461,2,-,原虫,Giardia属全種,哺乳動物等に対する病原性がないものを除く。
+462,2,-,原虫,Haemoproteus属全種,哺乳動物等に対する病原性がないものを除く。
+463,2,-,原虫,Hammondia hammondi,哺乳動物等に対する病原性がないものを除く。
+464,2,-,原虫,Hartmannella属全種,哺乳動物等に対する病原性がないものを除く。
+465,2,-,原虫,Hepatocystis属全種,哺乳動物等に対する病原性がないものを除く。
+466,2,-,原虫,Hepatozoon属全種,哺乳動物等に対する病原性がないものを除く。
+467,2,-,原虫,Hexamita属全種,哺乳動物等に対する病原性がないものを除く。
+468,2,-,原虫,Histomonas meleagridis,哺乳動物等に対する病原性がないものを除く。
+469,2,-,原虫,Isospora属全種,哺乳動物等に対する病原性がないものを除く。
+470,2,-,原虫,Leishmania属全種,哺乳動物等に対する病原性がないものを除く。
+471,2,-,原虫,Leucocytozoon属全種,哺乳動物等に対する病原性がないものを除く。
+472,2,-,原虫,Microsporidium門全種,哺乳動物等に対する病原性がないものを除く。
+473,2,-,原虫,Naegleria属全種,哺乳動物等に対する病原性がないものを除く。
+474,2,-,原虫,Neospora caninum,哺乳動物等に対する病原性がないものを除く。
+475,2,-,原虫,Pentatrichomonas hominis,哺乳動物等に対する病原性がないものを除く。
+476,2,-,原虫,Plasmodium属全種,哺乳動物等に対する病原性がないものを除く。
+477,2,-,原虫,Sarcocystis属全種,哺乳動物等に対する病原性がないものを除く。
+478,2,-,原虫,Tetratrichomonas gallinarum,哺乳動物等に対する病原性がないものを除く。
+479,2,-,原虫,Theileria属全種,哺乳動物等に対する病原性がないものを除く。
+480,2,-,原虫,Toxoplasma gondii,哺乳動物等に対する病原性がないものを除く。
+481,2,-,原虫,Trichomonas vaginalis,哺乳動物等に対する病原性がないものを除く。
+482,2,-,原虫,Tritrichomonas foetus,哺乳動物等に対する病原性がないものを除く。
+483,2,-,原虫,Trypanosoma属全種,哺乳動物等に対する病原性がないものを除く。
+484,2,-,寄生虫,Abbreviata属全種,哺乳動物等に対する病原性がないものを除く。
+485,2,-,寄生虫,Acanthoparyphium属全種,哺乳動物等に対する病原性がないも のを除く。
+486,2,-,寄生虫,Aelurostrongylus属全種,哺乳動物等に対する病原性がないも のを除く。
+487,2,-,寄生虫,Agriostomum属全種,哺乳動物等に対する病原性がないも のを除く。
+488,2,-,寄生虫,Alaria属全種,哺乳動物等に対する病原性がないも のを除く。
+489,2,-,寄生虫,Amoebotaenia属全種,哺乳動物等に対する病原性がないも のを除く。
+490,2,-,寄生虫,Ancylostoma属全種,哺乳動物等に対する病原性がないも のを除く。
+491,2,-,寄生虫,Angiostrongylus属全種,哺乳動物等に対する病原性がないも のを除く。
+492,2,-,寄生虫,Anisakis属全種,哺乳動物等に対する病原性がないも のを除く。
+493,2,-,寄生虫,Anoplocephala属全種,哺乳動物等に対する病原性がないも のを除く。
+494,2,-,寄生虫,Ascaridia属全種,哺乳動物等に対する病原性がないも のを除く。
+495,2,-,寄生虫,Ascaris属全種,哺乳動物等に対する病原性がないも のを除く。
+496,2,-,寄生虫,Ascarops属全種,哺乳動物等に対する病原性がないも のを除く。
+497,2,-,寄生虫,Aspiculuris属全種,哺乳動物等に対する病原性がないも のを除く。
+498,2,-,寄生虫,Avioserpens属全種,哺乳動物等に対する病原性がないも のを除く。
+499,2,-,寄生虫,Avitellina属全種,哺乳動物等に対する病原性がないも のを除く。
+500,2,-,寄生虫,Baylisascaris属全種,哺乳動物等に対する病原性がないも のを除く。
+501,2,-,寄生虫,Bertiella属全種,哺乳動物等に対する病原性がないも のを除く。
+502,2,-,寄生虫,Brachylaemus属全種,哺乳動物等に対する病原性がないも のを除く。
+503,2,-,寄生虫,Brugia属全種,哺乳動物等に対する病原性がないも のを除く。
+504,2,-,寄生虫,Bunostomum属全種,哺乳動物等に対する病原性がないも のを除く。
+505,2,-,寄生虫,Calicophora属全種,哺乳動物等に対する病原性がないも のを除く。
+506,2,-,寄生虫,Camallanus属全種,哺乳動物等に対する病原性がないも のを除く。
+507,2,-,寄生虫,Capillaria属全種,哺乳動物等に対する病原性がないも のを除く。
+508,2,-,寄生虫,Chabertia属全種,哺乳動物等に対する病原性がないも のを除く。
+509,2,-,寄生虫,Cheilospirura属全種,哺乳動物等に対する病原性がないも のを除く。
+510,2,-,寄生虫,Choanotaenia属全種,哺乳動物等に対する病原性がないも のを除く。
+511,2,-,寄生虫,Clonorchis属全種,哺乳動物等に対する病原性がないも のを除く。
+512,2,-,寄生虫,Cooperia属全種,哺乳動物等に対する病原性がないも のを除く。
+513,2,-,寄生虫,Cordonema属全種,哺乳動物等に対する病原性がないも のを除く。
+514,2,-,寄生虫,Cotugnia属全種,哺乳動物等に対する病原性がないも のを除く。
+515,2,-,寄生虫,Cotylurus属全種,哺乳動物等に対する病原性がないも のを除く。
+516,2,-,寄生虫,Craterostromum属全種,哺乳動物等に対する病原性がないも のを除く。
+517,2,-,寄生虫,Crenosoma属全種,哺乳動物等に対する病原性がないも のを除く。
+518,2,-,寄生虫,Cyathostoma属全種,哺乳動物等に対する病原性がないも のを除く。
+519,2,-,寄生虫,Cyathostomum属全種,哺乳動物等に対する病原性がないも のを除く。
+520,2,-,寄生虫,Cylicocyclus属全種,哺乳動物等に対する病原性がないも のを除く。
+521,2,-,寄生虫,Cylicodontophorus属全種,哺乳動物等に対する病原性がないも のを除く。
+522,2,-,寄生虫,Cylicospirura属全種,哺乳動物等に対する病原性がないも のを除く。
+523,2,-,寄生虫,Cylicostephanus属全種,哺乳動物等に対する病原性がないも のを除く。
+524,2,-,寄生虫,Davaincoides属全種,哺乳動物等に対する病原性がないも のを除く。
+525,2,-,寄生虫,Davainea属全種,哺乳動物等に対する病原性がないも のを除く。
+526,2,-,寄生虫,Demodex canis,哺乳動物等に対する病原性がないも のを除く。
+527,2,-,寄生虫,Dicrocoelium属全種,哺乳動物等に対する病原性がないも のを除く。
+528,2,-,寄生虫,Dictyocaulus属全種,哺乳動物等に対する病原性がないも のを除く。
+529,2,-,寄生虫,Digramma属全種,哺乳動物等に対する病原性がないも のを除く。
+530,2,-,寄生虫,Dioctophyme属全種,哺乳動物等に対する病原性がないも のを除く。
+531,2,-,寄生虫,Dipetalonema属全種,哺乳動物等に対する病原性がないも のを除く。
+532,2,-,寄生虫,Diphyllobothrium属全種,哺乳動物等に対する病原性がないも のを除く。
+533,2,-,寄生虫,Diplogonoporus属全種,哺乳動物等に対する病原性がないも のを除く。
+534,2,-,寄生虫,Dipylidium属全種,哺乳動物等に対する病原性がないも のを除く。
+535,2,-,寄生虫,Dirofilaria immitis,哺乳動物等に対する病原性がないも のを除く。
+536,2,-,寄生虫,Dracunculus属全種,哺乳動物等に対する病原性がないも のを除く。
+537,2,-,寄生虫,Draschia属全種,哺乳動物等に対する病原性がないも のを除く。
+538,2,-,寄生虫,Echinocephalus属全種,哺乳動物等に対する病原性がないも のを除く。
+539,2,-,寄生虫,Echinochasmus属全種,哺乳動物等に対する病原性がないも のを除く。
+540,2,-,寄生虫,Echinococcus属全種,哺乳動物等に対する病原性がないも のを除く。
+541,2,-,寄生虫,Echinostoma属全種,哺乳動物等に対する病原性がないも のを除く。
+542,2,-,寄生虫,Elaeophora属全種,哺乳動物等に対する病原性がないも のを除く。
+543,2,-,寄生虫,Enterobius属全種,哺乳動物等に対する病原性がないも のを除く。
+544,2,-,寄生虫,Euparyphium属全種,哺乳動物等に対する病原性がないも のを除く。
+545,2,-,寄生虫,Eurytrema属全種,哺乳動物等に対する病原性がないも のを除く。
+546,2,-,寄生虫,Fasciola属全種,哺乳動物等に対する病原性がないも のを除く。
+547,2,-,寄生虫,Fascioloides属全種,哺乳動物等に対する病原性がないも のを除く。
+548,2,-,寄生虫,Fasciolopsis属全種,哺乳動物等に対する病原性がないも のを除く。
+549,2,-,寄生虫,Filaroides属全種,哺乳動物等に対する病原性がないも のを除く。
+550,2,-,寄生虫,Fimbriaria属全種,哺乳動物等に対する病原性がないも のを除く。
+551,2,-,寄生虫,Fischoederius属全種,哺乳動物等に対する病原性がないも のを除く。
+552,2,-,寄生虫,Gaigeria属全種,哺乳動物等に対する病原性がないも のを除く。
+553,2,-,寄生虫,Gasterophilidae科全種,哺乳動物等に対する病原性がないも のを除く。
+554,2,-,寄生虫,Gastrodiscoides属全種,哺乳動物等に対する病原性がないも のを除く。
+555,2,-,寄生虫,Gigantobilharzia属全種,哺乳動物等に対する病原性がないも のを除く。
+556,2,-,寄生虫,Globocepharus属全種,哺乳動物等に対する病原性がないも のを除く。
+557,2,-,寄生虫,Gnathostoma属全種,哺乳動物等に対する病原性がないも のを除く。
+558,2,-,寄生虫,Gongylonema属全種,哺乳動物等に対する病原性がないも のを除く。
+559,2,-,寄生虫,Gyalocephalus属全種,哺乳動物等に対する病原性がないも のを除く。
+560,2,-,寄生虫,Habronema属全種,哺乳動物等に対する病原性がないも のを除く。
+561,2,-,寄生虫,Haemonchus contortus,哺乳動物等に対する病原性がないも のを除く。
+562,2,-,寄生虫,Heligmosomoides polygyrus,哺乳動物等に対する病原性がないも のを除く。
+563,2,-,寄生虫,Heterakis属全種,哺乳動物等に対する病原性がないも のを除く。
+564,2,-,寄生虫,Heterobilharzia属全種,哺乳動物等に対する病原性がないも のを除く。
+565,2,-,寄生虫,Heterophyes属全種,哺乳動物等に対する病原性がないも のを除く。
+566,2,-,寄生虫,Himasthla属全種,哺乳動物等に対する病原性がないも のを除く。
+567,2,-,寄生虫,Homalogaster属全種,哺乳動物等に対する病原性がないも のを除く。
+568,2,-,寄生虫,Hymenolepis属全種,哺乳動物等に対する病原性がないも のを除く。
+569,2,-,寄生虫,Hyostrongylus属全種,哺乳動物等に対する病原性がないも のを除く。
+570,2,-,寄生虫,Hypoderaeum属全種,哺乳動物等に対する病原性がないも のを除く。
+571,2,-,寄生虫,Inermicapsifer属全種,哺乳動物等に対する病原性がないも のを除く。
+572,2,-,寄生虫,Kudoa septempunctata,哺乳動物等に対する病原性がないも のを除く。
+573,2,-,寄生虫,Lagochilascaris属全種,哺乳動物等に対する病原性がないも のを除く。
+574,2,-,寄生虫,Ligula属全種,哺乳動物等に対する病原性がないも のを除く。
+575,2,-,寄生虫,Linguatula属全種,哺乳動物等に対する病原性がないも のを除く。
+576,2,-,寄生虫,Litomosoides sigmodontis,哺乳動物等に対する病原性がないも のを除く。
+577,2,-,寄生虫,Loa loa,哺乳動物等に対する病原性がないも のを除く。
+578,2,-,寄生虫,Mammomonogamus属全種,哺乳動物等に対する病原性がないも のを除く。
+579,2,-,寄生虫,Mansonella属全種,哺乳動物等に対する病原性がないも のを除く。
+580,2,-,寄生虫,Mecistocirrus属全種,哺乳動物等に対する病原性がないも のを除く。
+581,2,-,寄生虫,Mesocestoides属全種,哺乳動物等に対する病原性がないも のを除く。
+582,2,-,寄生虫,Metagonimus属全種,哺乳動物等に対する病原性がないも のを除く。
+583,2,-,寄生虫,Metastrongylus属全種,哺乳動物等に対する病原性がないも のを除く。
+584,2,-,寄生虫,Metroliasthes属全種,哺乳動物等に対する病原性がないも のを除く。
+585,2,-,寄生虫,Microbilharzia属全種,哺乳動物等に対する病原性がないも のを除く。
+586,2,-,寄生虫,Micropleura属全種,哺乳動物等に対する病原性がないも のを除く。
+587,2,-,寄生虫,Microtetrameres属全種,哺乳動物等に対する病原性がないも のを除く。
+588,2,-,寄生虫,Molineus属全種,哺乳動物等に対する病原性がないも のを除く。
+589,2,-,寄生虫,Moniezia属全種,哺乳動物等に対する病原性がないも のを除く。
+590,2,-,寄生虫,Muellerius属全種,哺乳動物等に対する病原性がないも のを除く。
+591,2,-,寄生虫,Nanophyetus属全種,哺乳動物等に対する病原性がないも のを除く。
+592,2,-,寄生虫,Necator属全種,哺乳動物等に対する病原性がないも のを除く。
+593,2,-,寄生虫,Nematodirus属全種,哺乳動物等に対する病原性がないも のを除く。
+594,2,-,寄生虫,Nippostrongylus brasiliensis,哺乳動物等に対する病原性がないも のを除く。
+595,2,-,寄生虫,Notocotylus属全種,哺乳動物等に対する病原性がないも のを除く。
+596,2,-,寄生虫,Oesophagodontus属全種,哺乳動物等に対する病原性がないも のを除く。
+597,2,-,寄生虫,Oesophagostomum属全種,哺乳動物等に対する病原性がないも のを除く。
+598,2,-,寄生虫,Oestrus属全種,哺乳動物等に対する病原性がないも のを除く。
+599,2,-,寄生虫,Ollulanus属全種,哺乳動物等に対する病原性がないも のを除く。
+600,2,-,寄生虫,Onchocerca属全種,哺乳動物等に対する病原性がないも のを除く。
+601,2,-,寄生虫,Opisthorchis属全種,哺乳動物等に対する病原性がないも のを除く。
+602,2,-,寄生虫,Ornithobilharzia属全種,哺乳動物等に対する病原性がないも のを除く。
+603,2,-,寄生虫,Orthocoelium属全種,哺乳動物等に対する病原性がないも のを除く。
+604,2,-,寄生虫,Osteophagostomum属全種,哺乳動物等に対する病原性がないも のを除く。
+605,2,-,寄生虫,Ostertagia属全種,哺乳動物等に対する病原性がないも のを除く。
+606,2,-,寄生虫,Oxyspirura属全種,哺乳動物等に対する病原性がないも のを除く。
+607,2,-,寄生虫,Oxyuris属全種,哺乳動物等に対する病原性がないも のを除く。
+608,2,-,寄生虫,Parafilaria属全種,哺乳動物等に対する病原性がないも のを除く。
+609,2,-,寄生虫,Paragonimus属全種,哺乳動物等に対する病原性がないも のを除く。
+610,2,-,寄生虫,Paramphistomum属全種,哺乳動物等に対する病原性がないも のを除く。
+611,2,-,寄生虫,Paranoplocephala属全種,哺乳動物等に対する病原性がないも のを除く。
+612,2,-,寄生虫,Parascaris属全種,哺乳動物等に対する病原性がないも のを除く。
+613,2,-,寄生虫,Paryphostomum属全種,哺乳動物等に対する病原性がないも のを除く。
+614,2,-,寄生虫,Passalurus属全種,哺乳動物等に対する病原性がないも のを除く。
+615,2,-,寄生虫,Pharyngostomum属全種,哺乳動物等に対する病原性がないも のを除く。
+616,2,-,寄生虫,Philometra属全種,哺乳動物等に対する病原性がないも のを除く。
+617,2,-,寄生虫,Philometroides属全種,哺乳動物等に対する病原性がないも のを除く。
+618,2,-,寄生虫,Physaloptera属全種,哺乳動物等に対する病原性がないも のを除く。
+619,2,-,寄生虫,Physocephalus属全種,哺乳動物等に対する病原性がないも のを除く。
+620,2,-,寄生虫,Plagiorchis属全種,哺乳動物等に対する病原性がないも のを除く。
+621,2,-,寄生虫,Poteriostomum属全種,哺乳動物等に対する病原性がないも のを除く。
+622,2,-,寄生虫,Probstmayria属全種,哺乳動物等に対する病原性がないも のを除く。
+623,2,-,寄生虫,Prosthogonimus属全種,哺乳動物等に対する病原性がないも のを除く。
+624,2,-,寄生虫,Protostrongylus属全種,哺乳動物等に対する病原性がないも のを除く。
+625,2,-,寄生虫,Pseudoterranova属全種,哺乳動物等に対する病原性がないも のを除く。
+626,2,-,寄生虫,Psoroptes属全種,哺乳動物等に対する病原性がないも のを除く。
+627,2,-,寄生虫,Raillietina属全種,哺乳動物等に対する病原性がないも のを除く。
+628,2,-,寄生虫,Rhabditis属全種,哺乳動物等に対する病原性がないも のを除く。
+629,2,-,寄生虫,Schistosoma属全種,哺乳動物等に対する病原性がないも のを除く。
+630,2,-,寄生虫,旋尾線虫タイプX,哺乳動物等に対する病原性がないも のを除く。
+631,2,-,寄生虫,Setaria属全種,哺乳動物等に対する病原性がないも のを除く。
+632,2,-,寄生虫,Simondsia属全種,哺乳動物等に対する病原性がないも のを除く。
+633,2,-,寄生虫,Skrjabinema属全種,哺乳動物等に対する病原性がないも のを除く。
+634,2,-,寄生虫,Sobolevicephalus属全種,哺乳動物等に対する病原性がないも のを除く。
+635,2,-,寄生虫,Sparganum proliferum,哺乳動物等に対する病原性がないも のを除く。
+636,2,-,寄生虫,Spirocerca属全種,哺乳動物等に対する病原性がないも のを除く。
+637,2,-,寄生虫,Spirometra属全種,哺乳動物等に対する病原性がないも のを除く。
+638,2,-,寄生虫,Spirura属全種,哺乳動物等に対する病原性がないも のを除く。
+639,2,-,寄生虫,Stephanofilaria属全種,哺乳動物等に対する病原性がないも のを除く。
+640,2,-,寄生虫,Stephanurus属全種,哺乳動物等に対する病原性がないも のを除く。
+641,2,-,寄生虫,Stichorchis属全種,哺乳動物等に対する病原性がないも のを除く。
+642,2,-,寄生虫,Stilesia属全種,哺乳動物等に対する病原性がないも のを除く。
+643,2,-,寄生虫,Strongyloides属全種,哺乳動物等に対する病原性がないも のを除く。
+644,2,-,寄生虫,Strongylus属全種,哺乳動物等に対する病原性がないも のを除く。
+645,2,-,寄生虫,Suifilaria属全種,哺乳動物等に対する病原性がないも のを除く。
+646,2,-,寄生虫,Syngamus属全種,哺乳動物等に対する病原性がないも のを除く。
+647,2,-,寄生虫,Synhimantus属全種,哺乳動物等に対する病原性がないも のを除く。
+648,2,-,寄生虫,Taenia属全種,哺乳動物等に対する病原性がないも のを除く。
+649,2,-,寄生虫,Tanqua属全種,哺乳動物等に対する病原性がないも のを除く。
+650,2,-,寄生虫,Terranova属全種,哺乳動物等に対する病原性がないも のを除く。
+651,2,-,寄生虫,Tetrameres属全種,哺乳動物等に対する病原性がないも のを除く。
+652,2,-,寄生虫,Thelazia属全種,哺乳動物等に対する病原性がないも のを除く。
+653,2,-,寄生虫,Thysaniezia属全種,哺乳動物等に対する病原性がないも のを除く。
+654,2,-,寄生虫,Thysanosoma属全種,哺乳動物等に対する病原性がないも のを除く。
+655,2,-,寄生虫,Toxascaris属全種,哺乳動物等に対する病原性がないも のを除く。
+656,2,-,寄生虫,Toxocara属全種,哺乳動物等に対する病原性がないも のを除く。
+657,2,-,寄生虫,Trichinella属全種,哺乳動物等に対する病原性がないも のを除く。
+658,2,-,寄生虫,Trichobilharzia属全種,哺乳動物等に対する病原性がないも のを除く。
+659,2,-,寄生虫,Trichostrongylus属全種,哺乳動物等に対する病原性がないも のを除く。
+660,2,-,寄生虫,Trichuris属全種,哺乳動物等に対する病原性がないも のを除く。
+661,2,-,寄生虫,Triodontophorus属全種,哺乳動物等に対する病原性がないも のを除く。
+662,2,-,寄生虫,Uncinaria属全種,哺乳動物等に対する病原性がないも のを除く。
+663,2,-,寄生虫,Wuchereria bancrofti,哺乳動物等に対する病原性がないも のを除く。
+664,2,-,ウイルス,Adenovirus,承認生ワクチン株を除く。
+665,2,-,ウイルス,Aichi virus,承認生ワクチン株を除く。
+666,2,-,ウイルス,Alcelaphine herpesvirus 1,承認生ワクチン株を除く。
+667,2,-,ウイルス,Apoi virus,承認生ワクチン株を除く。
+668,2,-,ウイルス,Aroa virus,承認生ワクチン株を除く。
+669,2,-,ウイルス,Asama virus,承認生ワクチン株を除く。
+670,2,-,ウイルス,Avian encephalomyelitis virus,承認生ワクチン株を除く。
+671,2,-,ウイルス,Avian enterovirus,承認生ワクチン株を除く。
+672,2,-,ウイルス,Avian hepatitis E virus,承認生ワクチン株を除く。
+673,2,-,ウイルス,Avian metapneumovirus (別名Turkey rhinotrachitis virus),承認生ワクチン株を除く。
+674,2,-,ウイルス,Avian paramyxovirus(Newcastle disease virus (別名Avian param- yxovirus 1)を含む。),承認生ワクチン株を除く。
+675,2,-,ウイルス,Avian orthoreovirus,承認生ワクチン株を除く。
+676,2,-,ウイルス,Avian retrovirus,承認生ワクチン株を除く。
+677,2,-,ウイルス,Aviastrovirus,承認生ワクチン株を除く。
+678,2,-,ウイルス,Avipoxvirus,承認生ワクチン株を除く。
+679,2,-,ウイルス,Border disease virus,承認生ワクチン株を除く。
+680,2,-,ウイルス,Borna disease virus,承認生ワクチン株を除く。
+681,2,-,ウイルス,Bovine astrovirus,承認生ワクチン株を除く。
+682,2,-,ウイルス,"Bovine enterovirus 1, 2",承認生ワクチン株を除く。
+683,2,-,ウイルス,Bovine ephemeral fever virus,承認生ワクチン株を除く。
+684,2,-,ウイルス,Bovine herpesvirus (Bovine herpesvirus 1(別名Infectious bovine rhinotracheitis virus)及びBovine herpesvirus 2(別名Bovine mammillitis virus)を含む。),承認生ワクチン株を除く。
+685,2,-,ウイルス,Bovine kobuvirus,承認生ワクチン株を除く。
+686,2,-,ウイルス,Bovine papular stomatitis virus,承認生ワクチン株を除く。
+687,2,-,ウイルス,Bovine respiratory syncytial virus,承認生ワクチン株を除く。
+688,2,-,ウイルス,"Bovine rhinovirus 1, 2, 3",承認生ワクチン株を除く。
+689,2,-,ウイルス,Bovine viral diarrhea virus ,承認生ワクチン株を除く。
+690,2,-,ウイルス,Canine distemper virus,承認生ワクチン株を除く。
+691,2,-,ウイルス,Canine herpesvirus,承認生ワクチン株を除く。
+692,2,-,ウイルス,Chicken anemia virus,承認生ワクチン株を除く。
+693,2,-,ウイルス,Cowpox virus,承認生ワクチン株を除く。
+694,2,-,ウイルス,Coronavirus(SARS coronavirusを除く。),承認生ワクチン株を除く。
+695,2,-,ウイルス,Cytomegalovirus ,承認生ワクチン株を除く。
+696,2,-,ウイルス,Dengue virus,承認生ワクチン株を除く。
+697,2,-,ウイルス,Duck hepatitis virus,承認生ワクチン株を除く。
+698,2,-,ウイルス,Duck hepatitis B virus,承認生ワクチン株を除く。
+699,2,-,ウイルス,Duck herpesvirus 1 (別名Duck plague virus、Duck enteritis virus),承認生ワクチン株を除く。
+700,2,-,ウイルス,Epstein-Barr (略称EB)virus,承認生ワクチン株を除く。
+701,2,-,ウイルス,Ectromelia virus,承認生ワクチン株を除く。
+702,2,-,ウイルス,Equine arteritis virus,承認生ワクチン株を除く。
+703,2,-,ウイルス,Equine herpesvirus,承認生ワクチン株を除く。
+704,2,-,ウイルス,Equine rhinovirus (Equine rhinitis A virus及びEquine rhinitis B virusを含む。),承認生ワクチン株を除く。
+705,2,-,ウイルス,Feline herpesvirus,承認生ワクチン株を除く。
+706,2,-,ウイルス,Feline morbillivirus,承認生ワクチン株を除く。
+707,2,-,ウイルス,Fukuoka virus,承認生ワクチン株を除く。
+708,2,-,ウイルス,GB virus B,承認生ワクチン株を除く。
+709,2,-,ウイルス,Getah virus,承認生ワクチン株を除く。
+710,2,-,ウイルス,Goatpox virus,承認生ワクチン株を除く。
+711,2,-,ウイルス,Hazara virus,承認生ワクチン株を除く。
+712,2,-,ウイルス,Hepatitis A virus,承認生ワクチン株を除く。
+713,2,-,ウイルス,Hepatitis B virus,承認生ワクチン株を除く。
+714,2,-,ウイルス,Hepatitis C virus,承認生ワクチン株を除く。
+715,2,-,ウイルス,Hepatitis D virus,承認生ワクチン株を除く。
+716,2,-,ウイルス,Hepatitis E virus,承認生ワクチン株を除く。
+717,2,-,ウイルス,Hepatitis G virus,承認生ワクチン株を除く。
+718,2,-,ウイルス,"Herpes simplex virus 1, 2",承認生ワクチン株を除く。
+719,2,-,ウイルス,Horsepox virus,承認生ワクチン株を除く。
+720,2,-,ウイルス,Human astrovirus,承認生ワクチン株を除く。
+721,2,-,ウイルス,"Human enterovirus A, B, C, D",承認生ワクチン株を除く。
+722,2,-,ウイルス,"Human herpesvirus 6, 7, 8",承認生ワクチン株を除く。
+723,2,-,ウイルス,Human immunodeficiency virus(略称HIV)1 (増殖力等欠損株(自立 的な増殖力及び感染力を保持せず、かつ、哺乳動物等に対する病原性 がない株であって、使用等を通じて自立的な増殖力及び感染力又は病 原性を獲得することがないものをいう。以下同じ。)に限る。),承認生ワクチン株を除く。
+724,2,-,ウイルス,Human metapneumovirus,承認生ワクチン株を除く。
+725,2,-,ウイルス,Human parechovirus,承認生ワクチン株を除く。
+726,2,-,ウイルス,Human respiratory syncytial virus,承認生ワクチン株を除く。
+727,2,-,ウイルス,Human rhinovirus A,承認生ワクチン株を除く。
+728,2,-,ウイルス,Human rhinovirus B,承認生ワクチン株を除く。
+729,2,-,ウイルス,Human rhinovirus C,承認生ワクチン株を除く。
+730,2,-,ウイルス,Ilheus virus,承認生ワクチン株を除く。
+731,2,-,ウイルス,Infectious bursal disease virus ,承認生ワクチン株を除く。
+732,2,-,ウイルス,Infectious laryngotracheitis virus Influenza virus (高病原性株を除く。),承認生ワクチン株を除く。
+733,2,-,ウイルス,Japanese encephalitis virus Juninvirus (Candid#1株に限る。),承認生ワクチン株を除く。
+734,2,-,ウイルス,Khabarovsk virus,承認生ワクチン株を除く。
+735,2,-,ウイルス,Lactate dehydrogenase-elevating virus,承認生ワクチン株を除く。
+736,2,-,ウイルス,Langat virus,承認生ワクチン株を除く。
+737,2,-,ウイルス,Lagovirus,承認生ワクチン株を除く。
+738,2,-,ウイルス,LCM(Lymphocytic choriomeningitis)virus,承認生ワクチン株を除く。
+739,2,-,ウイルス,Ljungan virus ,承認生ワクチン株を除く。
+740,2,-,ウイルス,"Mammalian retrovirus (Human immunodeficiency virus(略称HIV)1, 2を除き、Human T-cell leukemia lymphoma virus(略称HTLV)1, 2 を含む。)",承認生ワクチン株を除く。
+741,2,-,ウイルス,Marek's disease virus ,承認生ワクチン株を除く。
+742,2,-,ウイルス,Measles virus,承認生ワクチン株を除く。
+743,2,-,ウイルス,Meleagrid herpesvirus 2 (別名Turkey herpesvirus),承認生ワクチン株を除く。
+744,2,-,ウイルス,Molluscum contagiosum virus,承認生ワクチン株を除く。
+745,2,-,ウイルス,Monkeypox virus,承認生ワクチン株を除く。
+746,2,-,ウイルス,Mumps virus,承認生ワクチン株を除く。
+747,2,-,ウイルス,"Murid herpesvirus 1, 2, 8",承認生ワクチン株を除く。
+748,2,-,ウイルス,"Murid herpesvirus 4, 7",承認生ワクチン株を除く。
+749,2,-,ウイルス,Murine pneumonia virus (別名Pneumo virus of mice(略称PVM),承認生ワクチン株を除く。
+750,2,-,ウイルス,Myxoma virus,承認生ワクチン株を除く。
+751,2,-,ウイルス,Nairobi sheep disease virus,承認生ワクチン株を除く。
+752,2,-,ウイルス,Nelson Bay orthoreovirus,承認生ワクチン株を除く。
+753,2,-,ウイルス,Norovirus,承認生ワクチン株を除く。
+754,2,-,ウイルス,Oita virus,承認生ワクチン株を除く。
+755,2,-,ウイルス,O'Nyong-Nyong virus,承認生ワクチン株を除く。
+756,2,-,ウイルス,Orbivirus (African horse sickness virus を除く。),承認生ワクチン株を除く。
+757,2,-,ウイルス,Orf virus,承認生ワクチン株を除く。
+758,2,-,ウイルス,Orthobunyavirus,承認生ワクチン株を除く。
+759,2,-,ウイルス,Ovine herpesvirus 1 (別名Ovine pulmonary adenomatosis associa- ted herpesvirus),承認生ワクチン株を除く。
+760,2,-,ウイルス,Ovine herpesvirus 2,承認生ワクチン株を除く。
+761,2,-,ウイルス,Papillomavirus,承認生ワクチン株を除く。
+762,2,-,ウイルス,Parainfluenzavirus (Sendaivirusを含む。),承認生ワクチン株を除く。
+763,2,-,ウイルス,Parvovirus (Adeno-associated virusを除き、Human parvovirus B19 を含む。),承認生ワクチン株を除く。
+764,2,-,ウイルス,Pichinde virus,承認生ワクチン株を除く。
+765,2,-,ウイルス,Poikilothermal vertebrate retrovirus,承認生ワクチン株を除く。
+766,2,-,ウイルス,"Poliovirus 1, 2, 3",承認生ワクチン株を除く。
+767,2,-,ウイルス,Polyomavirus (メルケル細胞ポリオーマウイルスを含む。),承認生ワクチン株を除く。
+768,2,-,ウイルス,Porcine astrovirus,承認生ワクチン株を除く。
+769,2,-,ウイルス,Porcine circovirus,承認生ワクチン株を除く。
+770,2,-,ウイルス,"Porcine enterovirus B (旧分類名Porcine enterovirus 9, 10)",承認生ワクチン株を除く。
+771,2,-,ウイルス,Porcine reproductive and respiratory syndrome virus ,承認生ワクチン株を除く。
+772,2,-,ウイルス,"Porcine sapelovirus (旧分類名Porcine enterovirus 8, Porcine enterovirus A)",承認生ワクチン株を除く。
+773,2,-,ウイルス,Porcine teschovirus,承認生ワクチン株を除く。
+774,2,-,ウイルス,Prospect Hill virus ,承認生ワクチン株を除く。
+775,2,-,ウイルス,Pseudocowpox virus,承認生ワクチン株を除く。
+776,2,-,ウイルス,Psittacine circovirus,承認生ワクチン株を除く。
+777,2,-,ウイルス,Rabies virus (固定株及び弱毒化株に限る。),承認生ワクチン株を除く。
+778,2,-,ウイルス,Rio Bravo virus,承認生ワクチン株を除く。
+779,2,-,ウイルス,Ross river virus,承認生ワクチン株を除く。
+780,2,-,ウイルス,Rotavirus,承認生ワクチン株を除く。
+781,2,-,ウイルス,Rubella virus,承認生ワクチン株を除く。
+782,2,-,ウイルス,Sapovirus,承認生ワクチン株を除く。
+783,2,-,ウイルス,Semliki Forest virus (増殖力等欠損株に限る。),承認生ワクチン株を除く。
+784,2,-,ウイルス,Sheeppox virus,承認生ワクチン株を除く。
+785,2,-,ウイルス,Shope fibroma virus,承認生ワクチン株を除く。
+786,2,-,ウイルス,Simian enterovirus A,承認生ワクチン株を除く。
+787,2,-,ウイルス,Simian virus 5,承認生ワクチン株を除く。
+788,2,-,ウイルス,Simian herpesvirus (Cercopithecine herpesvirus 1(別名B-virus) 及びHerpesatelesvirusを除く。),承認生ワクチン株を除く。
+789,2,-,ウイルス,Sindbis virus,承認生ワクチン株を除く。
+790,2,-,ウイルス,Suid herpesvirus 1 (別名Pseudorabies virus、Aujeszky's disease virus),承認生ワクチン株を除く。
+791,2,-,ウイルス,Suid herpesvirus 2 (別名Pig cytomegalovirus),承認生ワクチン株を除く。
+792,2,-,ウイルス,Swinepox virus,承認生ワクチン株を除く。
+793,2,-,ウイルス,Swine vesicular disease virus,承認生ワクチン株を除く。
+794,2,-,ウイルス,Tacaribe virus,承認生ワクチン株を除く。
+795,2,-,ウイルス,Tanapox virus,承認生ワクチン株を除く。
+796,2,-,ウイルス,Theilovirus(Murine encephalomyelitis virus (別名Encephalomyo- carditis(略称EMC)virus)を含む。),承認生ワクチン株を除く。
+797,2,-,ウイルス,Torovirus,承認生ワクチン株を除く。
+798,2,-,ウイルス,Thottapalayam virus,承認生ワクチン株を除く。
+799,2,-,ウイルス,Torque teno(略称TT) virus,承認生ワクチン株を除く。
+800,2,-,ウイルス,Tula virus,承認生ワクチン株を除く。
+801,2,-,ウイルス,Varicella-zoster virus,承認生ワクチン株を除く。
+802,2,-,ウイルス,Vesicular stomatitis Alagoas virus,承認生ワクチン株を除く。
+803,2,-,ウイルス,Vesicular stomatitis Indiana virus,承認生ワクチン株を除く。
+804,2,-,ウイルス,Vesicular stomatitis New Jersey virus,承認生ワクチン株を除く。
+805,2,-,ウイルス,Vesivirus,承認生ワクチン株を除く。
+806,2,-,ウイルス,Woodchuck hepatitis virus,承認生ワクチン株を除く。
+807,2,-,ウイルス,Yaba monkey tumor virus,承認生ワクチン株を除く。
+808,2,-,ウイルス,Yokose virus ,承認生ワクチン株を除く。
+809,2,-,ウイルス,Rinderpest virus,生ワクチン株に限る。
+810,2,-,ウイルス,Vaccinia virus,LC16m8株を除く。
+811,3,-,原核生物,Bacillusanthracis(34F2株を除く。),哺乳動物等に対する病原性がないも のを除く。
+812,3,-,原核生物,Brucella属全種,哺乳動物等に対する病原性がないも のを除く。
+813,3,-,原核生物,Burkholderia mallei,哺乳動物等に対する病原性がないも のを除く。
+814,3,-,原核生物,Burkholderia pseudomallei ,哺乳動物等に対する病原性がないも のを除く。
+815,3,-,原核生物,Coxiella burnetii,哺乳動物等に対する病原性がないも のを除く。
+816,3,-,原核生物,Francisella tularensis subsp. tularensis,哺乳動物等に対する病原性がないも のを除く。
+817,3,-,原核生物,Mycobacterium africanum,哺乳動物等に対する病原性がないも のを除く。
+818,3,-,原核生物,Mycobacteriumbovis(BCG株を除く。),哺乳動物等に対する病原性がないも のを除く。
+819,3,-,原核生物,Mycobacterium tuberculosis,哺乳動物等に対する病原性がないも のを除く。
+820,3,-,原核生物,Mycoplasma mycoides subsp. mycoides(V株を除く。),哺乳動物等に対する病原性がないも のを除く。
+821,3,-,原核生物,Orientia tsutsugamushi,哺乳動物等に対する病原性がないも のを除く。
+822,3,-,原核生物,Pasteurella multocida(出血性敗血症又は家きんコレラ由来ではな い株を除く。),哺乳動物等に対する病原性がないも のを除く。
+823,3,-,原核生物,Rickettsia aeschlimannii,哺乳動物等に対する病原性がないも のを除く。
+824,3,-,原核生物,Rickettsia africae,哺乳動物等に対する病原性がないも のを除く。
+825,3,-,原核生物,Rickettsia akari,哺乳動物等に対する病原性がないも のを除く。
+826,3,-,原核生物,Rickettsia amblyommii,哺乳動物等に対する病原性がないも のを除く。
+827,3,-,原核生物,Rickettsia australis,哺乳動物等に対する病原性がないも のを除く。
+828,3,-,原核生物,Rickettsia canadensis,哺乳動物等に対する病原性がないも のを除く。
+829,3,-,原核生物,Rickettsia conorii,哺乳動物等に対する病原性がないも のを除く。
+830,3,-,原核生物,Rickettsia felis,哺乳動物等に対する病原性がないも のを除く。
+831,3,-,原核生物,Rickettsia heilongjiangensis,哺乳動物等に対する病原性がないも のを除く。
+832,3,-,原核生物,Rickettsia helvetica,哺乳動物等に対する病原性がないも のを除く。
+833,3,-,原核生物,Rickettsia honei,哺乳動物等に対する病原性がないも のを除く。
+834,3,-,原核生物,Rickettsia japonica,哺乳動物等に対する病原性がないも のを除く。
+835,3,-,原核生物,Rickettsia massiliae,哺乳動物等に対する病原性がないも のを除く。
+836,3,-,原核生物,Rickettsia mongolotimonae,哺乳動物等に対する病原性がないも のを除く。
+837,3,-,原核生物,Rickettsia montana,哺乳動物等に対する病原性がないも のを除く。
+838,3,-,原核生物,Rickettsia parkeri,哺乳動物等に対する病原性がないも のを除く。
+839,3,-,原核生物,Rickettsia prowazekii,哺乳動物等に対する病原性がないも のを除く。
+840,3,-,原核生物,Rickettsia raoultii,哺乳動物等に対する病原性がないも のを除く。
+841,3,-,原核生物,Rickettsia rhipicephali,哺乳動物等に対する病原性がないも のを除く。
+842,3,-,原核生物,Rickettsia rickettsii,哺乳動物等に対する病原性がないも のを除く。
+843,3,-,原核生物,Rickettsia sibirica,哺乳動物等に対する病原性がないも のを除く。
+844,3,-,原核生物,Rickettsia slovaca,哺乳動物等に対する病原性がないも のを除く。
+845,3,-,原核生物,Rickettsia typhi,哺乳動物等に対する病原性がないも のを除く。
+846,3,-,原核生物,Salmonella enterica subsp. enterica serovar Paratyphi A,哺乳動物等に対する病原性がないも のを除く。
+847,3,-,原核生物,Salmonella enterica subsp. enterica serovar Typhi,哺乳動物等に対する病原性がないも のを除く。
+848,3,-,原核生物,Yersinia pestis ,哺乳動物等に対する病原性がないも のを除く。
+849,3,-,真菌,Blastomyces dermatitidis,哺乳動物等に対する病原性がないも のを除く。
+850,3,-,真菌,Coccidioides immitis,哺乳動物等に対する病原性がないも のを除く。
+851,3,-,真菌,Coccidioides posadasii,哺乳動物等に対する病原性がないも のを除く。
+852,3,-,真菌,Histoplasma属全種,哺乳動物等に対する病原性がないも のを除く。
+853,3,-,真菌,Paracoccidioides braziliensis,哺乳動物等に対する病原性がないも のを除く。
+854,3,-,真菌,Penicillium marneffei ,哺乳動物等に対する病原性がないも のを除く。
+855,3,-,ウイルス,African horse sickness virus,承認生 ワクチン株を除く。
+856,3,-,ウイルス,African swine fever virus,承認生 ワクチン株を除く。
+857,3,-,ウイルス,Andes virus,承認生 ワクチン株を除く。
+858,3,-,ウイルス,Aravan virus,承認生 ワクチン株を除く。
+859,3,-,ウイルス,Ash River virus,承認生 ワクチン株を除く。
+860,3,-,ウイルス,Australian bat lyssavirus,承認生 ワクチン株を除く。
+861,3,-,ウイルス,Camp Ripley virus,承認生 ワクチン株を除く。
+862,3,-,ウイルス,Cao Bang virus,承認生 ワクチン株を除く。
+863,3,-,ウイルス,Cercopithecine herpesvirus 1 (別名B-virus),承認生 ワクチン株を除く。
+864,3,-,ウイルス,Chikungunya virus,承認生 ワクチン株を除く。
+865,3,-,ウイルス,Classical swine fever virus (別名Hog cholera virus),承認生 ワクチン株を除く。
+866,3,-,ウイルス,Colorado tick fever virus,承認生 ワクチン株を除く。
+867,3,-,ウイルス,Dobrava virus,承認生 ワクチン株を除く。
+868,3,-,ウイルス,Duvenhage virus,承認生 ワクチン株を除く。
+869,3,-,ウイルス,Eastern equine encephalitis virus,承認生 ワクチン株を除く。
+870,3,-,ウイルス,European bat lyssavirus,承認生 ワクチン株を除く。
+871,3,-,ウイルス,Foot-and-mouth disease virus,承認生 ワクチン株を除く。
+872,3,-,ウイルス,Hantaan virus,承認生 ワクチン株を除く。
+873,3,-,ウイルス,Herpes ateles virus,承認生 ワクチン株を除く。
+874,3,-,ウイルス,"Human immunodeficiency virus(略称HIV)1 (増殖力等欠損株を除 く。), 2",承認生 ワクチン株を除く。
+875,3,-,ウイルス,Imjin virus,承認生 ワクチン株を除く。
+876,3,-,ウイルス,Influenza virusの高病原性株,承認生 ワクチン株を除く。
+877,3,-,ウイルス,Irkut virus,承認生 ワクチン株を除く。
+878,3,-,ウイルス,Jemez Springs virus,承認生 ワクチン株を除く。
+879,3,-,ウイルス,Khujand virus,承認生 ワクチン株を除く。
+880,3,-,ウイルス,Kyasanur Forest disease virus,承認生 ワクチン株を除く。
+881,3,-,ウイルス,Lagos bat virus,承認生 ワクチン株を除く。
+882,3,-,ウイルス,Laguna Negra virus,承認生 ワクチン株を除く。
+883,3,-,ウイルス,Louping ill virus,承認生 ワクチン株を除く。
+884,3,-,ウイルス,Lumpy skin disease virus,承認生 ワクチン株を除く。
+885,3,-,ウイルス,Luna virus,承認生 ワクチン株を除く。
+886,3,-,ウイルス,Maporal virus,承認生 ワクチン株を除く。
+887,3,-,ウイルス,Mayaro virus,承認生 ワクチン株を除く。
+888,3,-,ウイルス,MERS coronavirus,承認生 ワクチン株を除く。
+889,3,-,ウイルス,Mobala virus,承認生 ワクチン株を除く。
+890,3,-,ウイルス,Mokola virus,承認生 ワクチン株を除く。
+891,3,-,ウイルス,Mopeia virus,承認生 ワクチン株を除く。
+892,3,-,ウイルス,Murray Valley encephalitis virus,承認生 ワクチン株を除く。
+893,3,-,ウイルス,Negishi virus ,承認生 ワクチン株を除く。
+894,3,-,ウイルス,New York virus,承認生 ワクチン株を除く。
+895,3,-,ウイルス,Omsk hemorrhagic fever virus,承認生 ワクチン株を除く。
+896,3,-,ウイルス,Peste-des-pettiis ruminant virus,承認生 ワクチン株を除く。
+897,3,-,ウイルス,Powassan virus,承認生 ワクチン株を除く。
+898,3,-,ウイルス,Puumala virus,承認生 ワクチン株を除く。
+899,3,-,ウイルス,Rabies virus (固定株及び弱毒化株を除く。),承認生 ワクチン株を除く。
+900,3,-,ウイルス,Rift Valley fever virus,承認生 ワクチン株を除く。
+901,3,-,ウイルス,Rinderpest virus,承認生 ワクチン株を除く。
+902,3,-,ウイルス,Saaremaa virus,承認生 ワクチン株を除く。
+903,3,-,ウイルス,SARS coronavirus,承認生 ワクチン株を除く。
+904,3,-,ウイルス,Seewis virus,承認生 ワクチン株を除く。
+905,3,-,ウイルス,Semliki Forest virus (増殖力等欠損株を除く。),承認生 ワクチン株を除く。
+906,3,-,ウイルス,Seoul virus,承認生 ワクチン株を除く。
+907,3,-,ウイルス,Severe fever with thrombocytopenia syndrome virus,承認生 ワクチン株を除く。
+908,3,-,ウイルス,Sin Nombre virus,承認生 ワクチン株を除く。
+909,3,-,ウイルス,St. Louis encephalitis virus,承認生 ワクチン株を除く。
+910,3,-,ウイルス,Tacaribe virus,承認生 ワクチン株を除く。
+911,3,-,ウイルス,Tanganya virus,承認生 ワクチン株を除く。
+912,3,-,ウイルス,Thailand virus,承認生 ワクチン株を除く。
+913,3,-,ウイルス,Tick-borne encephalitis virus (Russian spring-summer encephal- itisvirusを含む。),承認生 ワクチン株を除く。
+914,3,-,ウイルス,Venezuelan equine encephalitis virus,承認生 ワクチン株を除く。
+915,3,-,ウイルス,West Caucasian bat virus,承認生 ワクチン株を除く。
+916,3,-,ウイルス,Western equine encephalitis virus,承認生 ワクチン株を除く。
+917,3,-,ウイルス,West Nile virus (Kunjin virusを含む。),承認生 ワクチン株を除く。
+918,3,-,ウイルス,Yellow fever virus ,承認生 ワクチン株を除く。
+919,4,-,ウイルス,Bundibugyo ebolavirus,承認生 ワクチン株を除く。
+920,4,-,ウイルス,Chapare virus,承認生 ワクチン株を除く。
+921,4,-,ウイルス,Crimean-Congo hemorrhagic fever virus,承認生 ワクチン株を除く。
+922,4,-,ウイルス,Guanarito virus,承認生 ワクチン株を除く。
+923,4,-,ウイルス,Hendra virus,承認生 ワクチン株を除く。
+924,4,-,ウイルス,Juninvirus (Candid#1株を除く。),承認生 ワクチン株を除く。
+925,4,-,ウイルス,Lake Victoria marburgvirus,承認生 ワクチン株を除く。
+926,4,-,ウイルス,Lassa virus,承認生 ワクチン株を除く。
+927,4,-,ウイルス,Machupo virus,承認生 ワクチン株を除く。
+928,4,-,ウイルス,Nipah virus,承認生 ワクチン株を除く。
+929,4,-,ウイルス,Reston ebolavirus,承認生 ワクチン株を除く。
+930,4,-,ウイルス,Sabia virus,承認生 ワクチン株を除く。
+931,4,-,ウイルス,Sudan ebolavirus,承認生 ワクチン株を除く。
+932,4,-,ウイルス,Tai Forest ebolavirus (別名Ivory Coast ebolavirus),承認生 ワクチン株を除く。
+933,4,-,ウイルス,"Variola virus (major, minor)",承認生 ワクチン株を除く。
+934,4,-,ウイルス,Zaire ebolavirus ,承認生 ワクチン株を除く。
